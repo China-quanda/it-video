@@ -7,6 +7,8 @@ import 'element-ui/lib/theme-chalk/index.css'
 
 // 导入全局样式
 import '../src/assets/style/index.less'
+// 导入阿里图标库
+import '../src/assets/icon/iconfont.css'
 
 Vue.use(ElementUI)
 
